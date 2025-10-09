@@ -1,4 +1,4 @@
-# IS3751: DMX to Addressable LED
+# IS3751: DMX to Addressable LED Converter IC
 Control up to 170 3-color or 128 4-color Addressable LEDs
 
 ## General Description
